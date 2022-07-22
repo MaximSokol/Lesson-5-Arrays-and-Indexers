@@ -1,0 +1,7 @@
+D:\Study\Tasks made by me\Home codes\C#\Lesson 5 (Arrays and Indexers)\bin\Debug\Lesson 5 (Arrays and Indexers).exe.config
+D:\Study\Tasks made by me\Home codes\C#\Lesson 5 (Arrays and Indexers)\bin\Debug\Lesson 5 (Arrays and Indexers).exe
+D:\Study\Tasks made by me\Home codes\C#\Lesson 5 (Arrays and Indexers)\bin\Debug\Lesson 5 (Arrays and Indexers).pdb
+D:\Study\Tasks made by me\Home codes\C#\Lesson 5 (Arrays and Indexers)\obj\Debug\Lesson 5 (Arrays and Indexers).csproj.AssemblyReference.cache
+D:\Study\Tasks made by me\Home codes\C#\Lesson 5 (Arrays and Indexers)\obj\Debug\Lesson 5 (Arrays and Indexers).csproj.CoreCompileInputs.cache
+D:\Study\Tasks made by me\Home codes\C#\Lesson 5 (Arrays and Indexers)\obj\Debug\Lesson 5 (Arrays and Indexers).exe
+D:\Study\Tasks made by me\Home codes\C#\Lesson 5 (Arrays and Indexers)\obj\Debug\Lesson 5 (Arrays and Indexers).pdb
